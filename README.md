@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- My website: [henriquelalves.com](https://henriquelalves.com)
+- Contact me at henriquelalves@gmail.com
+
+
 <!--
 **henriquelalves/henriquelalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
